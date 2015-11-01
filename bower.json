@@ -1,0 +1,22 @@
+{
+  "name": "simple-karma",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Katarina Dabo <katarina@usabilla.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "grunt": "~0.4.5"
+  },
+  "private": true
+}
